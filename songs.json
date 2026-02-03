@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Back Up Friend",
+    "artist": "FromTom",
+    "audioUrl": "https://res.cloudinary.com/dwcguqqkk/video/upload/v1770051721/00046ed484682b33d3200651d856f2d0_ge7vsp.mp3",
+    "coverUrl": "https://res.cloudinary.com/dwcguqqkk/image/upload/v1770053329/IMG_20260201_214422_ojswrs.png",
+    "duration": 180,
+    "isDownloadable": true
+  },
+  {
+    "id": "2",
+    "title": "Never Let Go",
+    "artist": "NDA",
+    "audioUrl": "https://res.cloudinary.com/dwcguqqkk/video/upload/v1770133277/b76c9d76ef13015dd56759293c392048_hxiajb.mp3",
+    "coverUrl": "https://res.cloudinary.com/dwcguqqkk/image/upload/v1770133332/IMG_20260201_214554_vzjbb7.png",
+    "duration": 200,
+    "isDownloadable": true
+  }
+]
